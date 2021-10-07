@@ -1,0 +1,5 @@
+FirstName	LastName	SSN#
+Peter	Griffin	123-46-7890
+Lois	Griffin	234-56-7890
+Joe	Swanson	456-45-7890
+Cleveland	Brown	789-89-7890
